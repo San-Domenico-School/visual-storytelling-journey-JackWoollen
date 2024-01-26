@@ -2770,7 +2770,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 109, y: -49.5}
+  m_AnchoredPosition: {x: 100, y: -50}
   m_SizeDelta: {x: 200, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1946639782
@@ -2795,8 +2795,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: An Interesting Day
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9f0d61ecdd1864121a2b933c033697ad, type: 2}
-  m_sharedMaterial: {fileID: -3326242818883283644, guid: 9f0d61ecdd1864121a2b933c033697ad,
+  m_fontAsset: {fileID: 11400000, guid: 10bb53933ab3d49a79b43b22bb936a49, type: 2}
+  m_sharedMaterial: {fileID: 8836616624494215432, guid: 10bb53933ab3d49a79b43b22bb936a49,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
