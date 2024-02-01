@@ -233,7 +233,7 @@ MonoBehaviour:
   captionImage:
   - {fileID: 493824461}
   - {fileID: 1603030774}
-  typingSpeed: 0.08
+  typingSpeed: 0.009
   keepPastCaptions: 0
 --- !u!4 &22051171
 Transform:
@@ -2383,7 +2383,7 @@ PrefabInstance:
     - target: {fileID: 5777339421944539098, guid: eb90e863fd70cba4494ef8baa1e9a953,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 1.6358742
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5777339421944539098, guid: eb90e863fd70cba4494ef8baa1e9a953,
         type: 3}
